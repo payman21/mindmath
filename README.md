@@ -1,6 +1,6 @@
 Mind Math is a fun math game that I created for kids/adults to practice mental math skills competitively. It's for daily brain exercise! 
 
-![Alt text](https://github.com/payman21/mindmath/blob/main/screenshots/screenshot_2.png)
+![Alt text](https://github.com/payman21/mindmath/blob/main/screenshots/screenshot_1.png)
 
 ---
 
