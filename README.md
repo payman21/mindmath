@@ -1,3 +1,8 @@
+Mind Math is a fun math game that I created for kids/adults to practice mental math skills competitively. It's for daily brain exercise! 
+
+![Alt text]([URL_to_your_image](https://github.com/payman21/mindmath/blob/main/screenshots/screenshot_1.png))
+![Alt text]([URL_to_your_image](https://github.com/payman21/mindmath/blob/main/screenshots/screenshot_2.png))
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
